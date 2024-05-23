@@ -1,19 +1,19 @@
-# express-gRPC-example
+## express-gRPC-example
 gRPC example CRUD on express js
 
-# install dependencies
+## install dependencies
 ```
 npm i
 ```
 
-# create .env file and config by .env.example
+## create .env file and config by .env.example
 
-# run gRPC server
+## run gRPC server
 ```
 npm run start:grpc
 ```
-# run rest api
+## run rest api
 ```
 npm start
 ```
-# open localhost:3000 on browser
+## open localhost:3000 on browser
